@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="task3.AcademGroup">
+  <void property="name">
+   <string>SomeGroup</string>
+  </void>
+  <void property="students">
+   <array class="task3.Student" length="3">
+    <void index="0">
+     <object class="task3.Student">
+      <void property="name">
+       <string>Alex</string>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="task3.Student">
+      <void property="name">
+       <string>Michael</string>
+      </void>
+     </object>
+    </void>
+    <void index="2">
+     <object class="task3.Student">
+      <void property="name">
+       <string>Peter</string>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
