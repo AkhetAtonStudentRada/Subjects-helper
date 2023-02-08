@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(288,30): warning C4101: data: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,38): warning C4101: data: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication1\Debug\ConsoleApplication1.exe

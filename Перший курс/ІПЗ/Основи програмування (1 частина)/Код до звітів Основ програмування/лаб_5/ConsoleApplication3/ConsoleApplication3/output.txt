@@ -1,0 +1,4 @@
+4 -66 -36 sum = 0.60206
+-154 100 10 sum = 3
+-198 0 100 sum = 2
+-6 -18 0 v stroke net polozhitel'nyh elementov

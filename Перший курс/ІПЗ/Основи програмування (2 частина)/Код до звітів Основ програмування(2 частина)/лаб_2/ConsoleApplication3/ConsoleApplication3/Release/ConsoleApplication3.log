@@ -1,0 +1,22 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(37,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(45,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(60,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(78,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(113,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(120,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(128,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(143,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(161,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(197,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(204,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(212,38): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(227,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(245,30): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(265,29): warning C4101: ex: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 63 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication3.vcxproj -> C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_2\ConsoleApplication3\Release\ConsoleApplication3.exe

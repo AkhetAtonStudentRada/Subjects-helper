@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\esulu\Desktop\folders\1 курс\swe\практические лабы\лр_3_Шулюпов_КН_221В\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(35): warning C4715: y_1: значение возвращается не при всех путях выполнения
+C:\Users\esulu\Desktop\folders\1 курс\swe\практические лабы\лр_3_Шулюпов_КН_221В\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62): warning C4715: calculate: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\swe\практические лабы\лр_3_Шулюпов_КН_221В\ConsoleApplication1\Debug\ConsoleApplication1.exe

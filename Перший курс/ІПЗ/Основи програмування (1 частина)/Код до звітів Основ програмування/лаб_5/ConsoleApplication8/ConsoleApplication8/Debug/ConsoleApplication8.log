@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(13,30): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication8\Debug\ConsoleApplication8.exe

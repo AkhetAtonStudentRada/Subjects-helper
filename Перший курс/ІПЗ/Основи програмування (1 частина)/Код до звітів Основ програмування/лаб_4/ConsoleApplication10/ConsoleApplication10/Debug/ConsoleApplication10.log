@@ -1,0 +1,3 @@
+﻿  ConsoleApplication10.cpp
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_4\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication10.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_4\ConsoleApplication10\Debug\ConsoleApplication10.exe

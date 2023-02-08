@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,8): warning C4102: std: неиспользованная метка
+  ConsoleApplication1.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_5\ConsoleApplication1\Debug\ConsoleApplication1.exe

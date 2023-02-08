@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(319,29): warning C4101: data: неиспользованная локальная переменная
+C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(322,37): warning C4101: data: неиспользованная локальная переменная
+  Создание кода
+  1 of 27 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication2.vcxproj -> C:\Users\esulu\Desktop\FOLDER_HXZE\1 курс\labs_op\2 семестр\лаб_1\ConsoleApplication2\Release\ConsoleApplication2.exe

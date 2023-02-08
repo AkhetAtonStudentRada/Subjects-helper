@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,15): warning C4552: "-": результат выражения не используется
+  ConsoleApplication1.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_4\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

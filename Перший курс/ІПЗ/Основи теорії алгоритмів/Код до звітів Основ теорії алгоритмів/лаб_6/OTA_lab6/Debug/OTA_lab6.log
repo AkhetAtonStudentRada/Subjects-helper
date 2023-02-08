@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Acer\source\repos\OTA_lab6\OTA_lab6\Source.cpp(96): warning C4715: Graph::isForest: значение возвращается не при всех путях выполнения
+  OTA_lab6.vcxproj -> C:\Users\Acer\source\repos\OTA_lab6\Debug\OTA_lab6.exe

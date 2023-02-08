@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Acer\source\repos\OTA_lab9\OTA_lab9\Source.cpp(27,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\OTA_lab9\OTA_lab9\Source.cpp(54,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  OTA_lab9.vcxproj -> C:\Users\Acer\source\repos\OTA_lab9\Debug\OTA_lab9.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab2\OTA_Lab2\Source.cpp(40): warning C4715: HashTable::FindHashEntry: значение возвращается не при всех путях выполнения
+  OTA_Lab2.vcxproj -> C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab2\Debug\OTA_Lab2.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab5\OTA_Lab5\Source.cpp(18,25): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab5\OTA_Lab5\Source.cpp(22,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab5\OTA_Lab5\Source.cpp(40,9): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+  OTA_Lab5.vcxproj -> C:\Users\Acer\Documents\prog\C++\learn\OTA_Lab5\Debug\OTA_Lab5.exe

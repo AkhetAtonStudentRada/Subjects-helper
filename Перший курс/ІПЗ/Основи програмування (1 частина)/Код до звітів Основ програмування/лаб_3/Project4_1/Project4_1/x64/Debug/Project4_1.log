@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_3\Project4_1\Project4_1\Source1.cpp(20): warning C4715: signum: значение возвращается не при всех путях выполнения
+C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_3\Project4_1\Project4_1\Source1.cpp(28): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Project4_1.vcxproj -> C:\Users\esulu\Desktop\folders\1 курс\labs_op\лаб_3\Project4_1\x64\Debug\Project4_1.exe
