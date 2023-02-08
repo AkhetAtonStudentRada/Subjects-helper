@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\bin\Debug\net6.0\Task1LIb.deps.json
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\bin\Debug\net6.0\Task1LIb.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\bin\Debug\net6.0\Task1LIb.pdb
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\refint\Task1LIb.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\Task1LIb.pdb
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task1LIb\obj\Debug\net6.0\ref\Task1LIb.dll

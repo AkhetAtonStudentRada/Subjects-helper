@@ -1,0 +1,51 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="0.4*" />
+            <RowDefinition Height="0.8*" />
+        </Grid.RowDefinitions>
+        <Menu Background="Gray">
+            <MenuItem Header="File">
+                <MenuItem Header="Open" Name="MenuItemOpen" Click="MenuItemOpen_Click"/>
+                <MenuItem Header="Save" Name="MenuSaveOpen" Click="MenuItemSave_Click"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Orientation="Horizontal" Grid.Row="1">
+            <StackPanel Orientation="Vertical" Margin="20">
+                <Button Name="ButtonSortByNameDesc" Content="Sort by name descending" FontSize="14" Click="ButtonSortByNameDesc_Click" Margin="10"/>
+                <Button Name="ButtonSortByPopulation" Content="Sort by population" FontSize="14" Click="ButtonSortByPopulation_Click" Margin="10"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="50 10" Width="150">
+                <TextBlock Text="Search by name:" FontSize="14" HorizontalAlignment="Center"/>
+                <TextBox x:Name="TextBoxSearchName" Margin="5 20 5 30"/>
+                <Button x:Name="ButtonSearchByName" Click="ButtonSearchByName_Click" Content="Search" FontSize="14" Width="80"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="10" Width="250">
+                <TextBlock Text="Search by population:" FontSize="14" HorizontalAlignment="Center"/>
+                <StackPanel Orientation="Horizontal" Width="250" Margin="5 20 5 30">
+                    <TextBlock Text="from:" />
+                    <TextBox x:Name="TextBoxSearchPopulationFrom" Width="90" Margin="5 0"/>
+                    <TextBlock Text="to:" />
+                    <TextBox x:Name="TextBoxSearchPopulationTo" Width="90" Margin="5 0"/>
+                </StackPanel>
+                <Button x:Name="ButtonSearchByPopulation" Click="ButtonSearchByPopulation_Click" Content="Search" FontSize="14" Width="80"/>
+            </StackPanel>
+        </StackPanel>
+        <DataGrid Grid.Row="2" x:Name="DataGridA">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Add row" Name="MenuItemAdd" Click="MenuItemAdd_Click"/>
+                    <MenuItem Header="Delete row" Name="MenuItemRemove" Click="MenuItemRemove_Click"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+    </Grid>
+</Window>

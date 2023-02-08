@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Назар\ООП\ЛР4\Lab4\Task4\obj\Debug\net6.0\ref\Task4.dll
